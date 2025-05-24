@@ -3,7 +3,7 @@ title: "Introduction to Data Science"
 date: 2025-05-24
 categories: [data-science]
 tags: [data, analytics, data-science, machine-learning, artificial-intelligence]
-description: Data science projects
+# description: Data science projects
 ---
 
 # Introduction to Data Science
