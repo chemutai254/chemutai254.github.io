@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Introduction to Data Science"
 date: 2025-05-24
@@ -48,5 +47,3 @@ To begin your journey in Data Science:
 
 Data Science is a rapidly growing field with endless possibilities. Start exploring today!
 
----
-```
