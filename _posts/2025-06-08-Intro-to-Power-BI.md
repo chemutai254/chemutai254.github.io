@@ -18,7 +18,7 @@ As a data analyst I was provided with sample data and a mock-up dashboard to wor
 2. Create dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are provided in the metric list/mock-up dashboard.
 
-I downloaded all relevant documents from the link below to:
+I downloaded all relevant documents from the link below to: \
 [Link:] (https://codebasics.io/resources/end-to-end-data-analyst-project) 
 
 ## Tools and Techniques
