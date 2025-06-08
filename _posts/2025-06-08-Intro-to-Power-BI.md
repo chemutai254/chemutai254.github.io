@@ -19,7 +19,7 @@ As a data analyst I was provided with sample data and a mock-up dashboard to wor
 3. Create relevant insights that are provided in the metric list/mock-up dashboard.
 
 I downloaded all relevant documents from the link below to:  
-![Link:](https://codebasics.io/resources/end-to-end-data-analyst-project) 
+![Link](https://codebasics.io/resources/end-to-end-data-analyst-project) 
 
 ## Tools and Techniques
 **Visualization Tool**: Power BI Desktop
