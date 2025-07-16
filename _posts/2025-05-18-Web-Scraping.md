@@ -1,6 +1,6 @@
 ---
 title: "Web Scraping"
-date: 2025-06-28
+date: 2025-05-18
 categories: [data-science]
 tags: [data, analytics, data-science, machine-learning, artificial-intelligence]
 ---
