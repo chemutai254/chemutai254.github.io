@@ -17,20 +17,20 @@ The Titanic sank at 2 a.m. on April 15, 1912, with approximately 1,500 people st
 * To conduct an Exploratory Data Analysis on the Titanic dataset. This includes  `Univariate`, `Bivariate`, `Multivariate`,  `Outlier`, and `Target Analysis` of the data.
 
 ## Data Dictionary
-|  :Feature Name:   |  :Description:                                  |  :Category (Optional):            |
-|-------------------|-------------------------------------------------|-----------------------------------|
-|:PassengerId       |:Unique identifier of the passenger              |                                   |
-|:Survived          |:Survival                                        |:0 = No, 1 = Yes                   |
-|:Pclass            |:Ticket class                                    |:1 = Upper, 2 = Middle, 3 = Lower  |
-|:Name              |:Name of the passenger                           |                                   |
-|:Sex               |:Gender of the passenger                         |:male, female                      |
-|:Age               |:Age in years                                    |                                   |
-|:SibSp             |:Number of siblings / spouses aboard the Titanic |                                   |
-|:Parch             |:Number of parents / children aboard the Titanic |                                   |
-|:Ticket            |:Ticket number                                   |                                   |
-|:Fare              |:Passenger fare                                  |                                   |
-|:Cabin             |:Cabin number                                    |                                   |
-|:Embarked          |:Port of Embarkation                             |:S, C, Q                           |
+|  Feature Name    |  Description                                   |  Category (Optional)            |
+|------------------|------------------------------------------------|---------------------------------|
+|PassengerId       |Unique identifier of the passenger              |                                 |
+|Survived          |Survival                                        |0 = No, 1 = Yes                  |
+|Pclass            |Ticket class                                    |1 = Upper, 2 = Middle, 3 = Lower |
+|ame               |Name of the passenger                           |                                 |
+|Sex               |Gender of the passenger                         |male, female                     |
+|Age               |Age in years                                    |                                 |
+|SibSp             |Number of siblings / spouses aboard the Titanic |                                 |
+|Parch             |Number of parents / children aboard the Titanic |                                 |
+|Ticket            |Ticket number                                   |                                 |
+|Fare              |Passenger fare                                  |                                 |
+|Cabin             |Cabin number                                    |                                 |
+|Embarked          |Port of Embarkation                             |S, C, Q                          |
 
 The Embarked Category consists of:
 1. Southamption (S)
