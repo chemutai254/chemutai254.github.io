@@ -1,0 +1,59 @@
+---
+title: "Data Wrangling in Python"
+date: 2025-05-27
+categories: [data-science]
+tags: [data, analytics, data-science, machine-learning, artificial-intelligence]
+---
+
+# Data Wrangling in Python: Case Study of Netflix
+
+## Introduction
+According to IBM, data wrangling is the process of cleaning, structuring, and enriching raw data
+to be used in data science, machine learning (ML), and other data-driven applications. It
+addresses data quality issues such as missing values, duplicates, outliers, and formatting
+inconsistencies. ![Link](https://www.ibm.com/think/topics/data-wrangling)
+
+## Benefits of Data Wrangling
+* Supports high-quality results
+* Ensures that the information used to develop and enhance models is accurate
+* Improves interpretability, as clean and well-structured data is easier for humans and algorithms to understand
+* Aids with data integration, making it easier for information from disparate sources to be combined and interconnected
+
+## Automating Web data gathering using Python on Netflix Data Set
+* Obtained data from ![kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+## Objectives
+1. Loading the Netflix dataset from a CSV file and exploring its structure using pandas
+2. Perform data discovery to assess data types, missing values, and quality issues
+3. Clean the dataset by handling duplicates, missing values, and formatting inconsistencies
+4. Transform and enrich the dataset using techniques like filtering, sorting, grouping,
+and feature extraction
+5. Validate the final dataset by checking consistency, completeness, and logical accuracy
+6. Export the final cleaned dataset to a .csv file ready for analysis or visualization
+
+The following data wrangling process was used to execute the project successfully:
+* Discovering
+* Structuring
+* Cleaning
+* Enriching
+* Validating
+
+
+## Conclusion
+The Netflix dataset was wrangled by adhering to the data wrangling process: discovering,
+structuring, cleaning, enriching, and validation. The discovering process entailed the querying of
+data to identify discrepancies. There was presence of missing values in director, cast, country,
+date_added, rating, and duration columns. The percentage of missing values in each column
+include director - 29.90%, cast - 9.37%, country - 9.43%, date_added - 0.11%, rating: - 0.05%,
+and duration - 0.03%. The column date_added was a string instead of a datetime datatype.
+In structuring stage, the date_added column was converted to datetime datatype from a string.
+The duration column was also split into two columns namely duration_value and duration_unit
+where the value took a numeric datatype and unit a string. During cleaning, the description
+column was dropped since it was rendered irrelevant in the analysis. The missing columns
+director, cast, and country were imputed whereby the missing values were filled in relation to
+each other. The three columns accounted for a reasonable percentage thus could not be dropped.
+However, the date_added, rating, and duration missing values were dropped since they could not
+impact the dataset.
+Enriching was done to ensure that the data utilized was within range i.e. after 1997. Thereafter,
+validation was conducted to ensure that the above-mentioned discrepancies were handled. The
+clean dataset was exported as a .csv file as seen in this ![link](https://www.kaggle.com/code/chemutai254/netflix-data-wrangling)
