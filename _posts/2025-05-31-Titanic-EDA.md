@@ -100,9 +100,9 @@ The Embarked Category consists of:
 ### Univariate Analysis
 * The data being analyzed consists of just one variable
 15. Visualizing the number of survivors
-![Survival](../assets/images/Titanic/survival.png)
+![Survival](../assets/images/Titanic/survival.png)<br>
 The number of passengers who survived the accident was low compared to the passengers who perished
-
+<br>
 16. Distribution of Age
 ![Age](../assets/images/Titanic/AgeDist.png)
 The Age is distributed at the middle between age 20 and 40. - The number of passengers were positively skewed according to age
