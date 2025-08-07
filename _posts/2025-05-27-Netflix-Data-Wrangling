@@ -38,6 +38,11 @@ The following data wrangling process was used to execute the project successfull
 * Enriching
 * Validating
 
+# :bulb: Execution Process
+
+### :white_check_mark: Import relevant libraries
+
+
 
 ## Conclusion
 The Netflix dataset was wrangled by adhering to the data wrangling process: discovering,
